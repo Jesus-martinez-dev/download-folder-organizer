@@ -1,0 +1,15 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales (si usas venv)
+venv/
+.venv/
+env/
+
+# Archivos del sistema Linux
+.DS_Store
+.directory
+.pdm-python
+
