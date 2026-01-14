@@ -6,17 +6,17 @@
 
 Script de automatización robusto para la organización inteligente de archivos en la carpeta de Descargas. Optimizado para entornos **Linux Mint**.
 
-## 🎯 Propósito
+## Propósito
 Este proyecto resuelve el desorden común en la carpeta `~/Descargas`, clasificando archivos automáticamente y evitando la pérdida de datos por duplicidad mediante un algoritmo de renombrado.
 
-## ✨ Características Técnicas
+## Características Técnicas
 * **Mapeo Eficiente:** Uso de diccionarios para una clasificación instantánea.
 * **Resolución de Conflictos:** Si un archivo ya existe, se renombra automáticamente (ej: `archivo_1.pdf`).
 * **Portabilidad:** Detecta automáticamente si el sistema está en español (`Descargas`) o inglés (`Downloads`).
 * **Seguridad:** Manejo de excepciones para evitar errores por archivos abiertos o falta de permisos.
 
-## 🚀 Instalación y Uso
- ## 🚀 Instalación y Uso
+##  Instalación y Uso
+ 
 
 Sigue estos pasos para configurar el organizador en tu entorno local de Linux.
 
